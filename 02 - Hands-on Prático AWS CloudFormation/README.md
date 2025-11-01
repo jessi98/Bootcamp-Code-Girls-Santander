@@ -1,4 +1,4 @@
-# ⚙️ 02 - Infraestrutura como Código (IaC) com AWS CloudFormation
+# ⚙️ 03 - Infraestrutura como Código (IaC) com AWS CloudFormation
 
 ## 🎯 Conceitos Chave: AWS CloudFormation
 
@@ -36,4 +36,5 @@ O template criado provisionou a seguinte infraestrutura mínima na AWS:
 
 * **Codificação de Infraestrutura:** Mudança de mentalidade de provisionamento manual para um processo automatizado e repetível via código.
 * **Estrutura de Templates:** Familiaridade com as seções obrigatórias de um template CloudFormation (Version, Resources) e opcionais (Parameters, Outputs).
+
 * **Gerenciamento de Ciclo de Vida:** Prática em criar (CREATE\_COMPLETE) e gerenciar o ciclo de vida da Stack, observando a aba **Events** no console para acompanhar o status de provisionamento de cada recurso.
