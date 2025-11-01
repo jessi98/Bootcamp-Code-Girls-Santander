@@ -18,7 +18,7 @@ Utilizamos um template de máquina de estados pronto da AWS (State Machine) que 
 
 **Visualização do Fluxo de Trabalho (State Machine):**
 Aqui está o diagrama do fluxo de trabalho (`NOAAWeatherStateMachine`) no console do Step Functions, mostrando a estrutura visual da máquina de estados:
-![Diagrama de Execução do Step Functions](image_fa4003.png)
+![Diagrama de Execução do Step Functions](image_fa4003.png.png)
 
 ## 🚀 Aprendizados Chave (A Visão Geral para o Recrutador)
 
@@ -37,3 +37,4 @@ Aqui está o diagrama do fluxo de trabalho (`NOAAWeatherStateMachine`) no consol
 
 
 ---
+
