@@ -18,7 +18,7 @@ Utilizamos um template de máquina de estados pronto da AWS (State Machine) que 
 
 **Visualização do Fluxo de Trabalho (State Machine):**
 Aqui está o diagrama do fluxo de trabalho (`NOAAWeatherStateMachine`) no console do Step Functions, mostrando a estrutura visual da máquina de estados:
-http://googleusercontent.com/image_generation_content/0
+![Diagrama de Execução do Step Functions](image_fa4003.png)
 
 ## 🚀 Aprendizados Chave (A Visão Geral para o Recrutador)
 
@@ -34,5 +34,6 @@ http://googleusercontent.com/image_generation_content/0
 * **AWS Step Functions:** Serviço principal de orquestração.
 * **Amazon S3:** Serviço de armazenamento (ponto de partida do fluxo).
 * **Amazon CloudWatch:** Utilizado para monitoramento e visualização de logs/eventos gerados pela execução
+
 
 ---
